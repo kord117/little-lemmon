@@ -1,3 +1,3 @@
 # little-lemmon
 
-A landing page for a ficional resturant
+A landing page for a fictional restaurant
